@@ -36,7 +36,9 @@
             "always"
         ],
         "react/prop-types": 0,
-        "no-console": 0
+        "no-console": 0,
+        "react/jsx-uses-react": "error",
+        "react/jsx-uses-vars": "error"
 
     }
 }
